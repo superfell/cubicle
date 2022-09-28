@@ -1,0 +1,4 @@
+.configs/profile.d/path/42-qmk
+.local/lib/python3.9/site-packages
+.local/bin
+.config/qmk

@@ -1,0 +1,8 @@
+[depends.debian]
+build-essential = {}
+python3-pip = {}
+
+clang-format-11={}
+libftdi1={}
+libhidapi-libusb0={}
+libnewlib-dev={}
